@@ -8,8 +8,6 @@ import Card_Slider_Two from './Card_Slider_Two'
 import Card_Group from './Card_Group'
 import Info_Card from './Info_Card'
 import Content from './Content'
-import Footer from './Footer'
-import Second_page from './second_page'
 
 const Body = () => {
     return (
