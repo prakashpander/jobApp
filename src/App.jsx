@@ -4,10 +4,9 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Body from './Components/Body';
 import Third_page from './Components/Third_page';
-import Second_page from './Components/second_page';
 import Footer from './Components/Footer';
 import Signup from './Components/Signup';
-
+import Second_page from "./Components/Second_page"
 function App() {
   const [count, setCount] = useState(0);
 
